@@ -1,0 +1,7 @@
+models/
+data/
+*_old/
+figures/
+
+*.png
+*__pycache__
